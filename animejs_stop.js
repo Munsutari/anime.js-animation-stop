@@ -16,8 +16,6 @@ function cancelAnimationById(id){
     
             anime.running.pop(i);
         }
-    
-
     }
 }
 
